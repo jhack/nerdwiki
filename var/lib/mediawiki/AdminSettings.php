@@ -1,0 +1,1 @@
+/etc/mediawiki/AdminSettings.php

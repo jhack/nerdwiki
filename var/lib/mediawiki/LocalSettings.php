@@ -1,0 +1,1 @@
+/etc/mediawiki/LocalSettings.php
