@@ -2,7 +2,7 @@
 
 # Restores nerdwiki back to correct MediaWiki paths
 # NOTE: LocalSettings.php is not included in original backup script
-# This script is a work in progress.
+# Run this script in nerdwiki folder
 
 # TODO:
 # - add prompt if original MediaWiki files already exist
